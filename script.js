@@ -1,13 +1,13 @@
 const quizData = [
     {
-        question: 'Dans quel ville se trouve l atomium',
+        question: 'Dans quelle ville se trouve l atomium',
         a: 'Bruxelles',
         b: 'Garoua',
         c: 'Yaounde',
         d: 'Paris',
         correct: 'a'
     }, {
-        question: 'Quel est la nationalite de Stromae',
+        question: 'Quelle est la nationalite de Stromae',
         a: 'Belge',
         b: 'Allemende',
         c: 'Camerounaise',
