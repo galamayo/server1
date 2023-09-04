@@ -7,7 +7,7 @@ const quizData = [
         d: 'Paris',
         correct: 'a'
     }, {
-        question: 'Quelle est la nationalite de Stromae',
+        question: 'Quelle est la nationalité de Stromae',
         a: 'Belge',
         b: 'Allemende',
         c: 'Camerounaise',
